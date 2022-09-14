@@ -1,1 +1,0 @@
-const text = "Hola mundoHola mundoHola mundoHola mundoHola mundoHola mundoHola mundoHola mundoHola mundoHola mundoHola mundoHola mundoHola mundoHola mundoHola mundoHola mundoHola mundoHola mundoHola mundoHola mundoHola mundoHola mundoHola mundoHola mundo";
