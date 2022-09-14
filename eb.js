@@ -1,3 +1,3 @@
 const hello="hello world"
 
-console.log("soy yo jeje")
+console.log("soy yo jaja")
